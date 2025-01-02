@@ -94,9 +94,6 @@
 - Deploy the application to a cloud platform.
 - Configure logging and monitoring.
 
-**Assignment**:
-- Deploy the Week 5 assignment to a cloud platform and ensure it’s accessible.
-
 ---
 ### **Big Assignment: Build a Library Management System**
 
